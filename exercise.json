@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MACHINE-01",
+    "status": "RUNNING",
+    "performance": "98%",
+    "since": "12h:30m:15s",
+    "partsProduced": 1250
+  },
+  {
+    "name": "MACHINE-02",
+    "status": "PAUSED",
+    "performance": "70%",
+    "since": "1h:15m:1s",
+    "partsProduced": 988
+  },
+  {
+    "name": "MACHINE-03",
+    "status": "STOPPED",
+    "performance": "58%",
+    "since": "0H:18m:30s",
+    "partsProduced": 850
+  },
+  {
+    "name": "MACHINE-04",
+    "status": "RUNNING",
+    "performance": "77%",
+    "since": "32h:25m:15s",
+    "partsProduced": 1250
+  },
+  {
+    "name": "MACHINE-05",
+    "status": "RUNNING",
+    "performance": "91%",
+    "since": "22h:18m:1s",
+    "partsProduced": 1250
+  },
+  {
+    "name": "MACHINE-06",
+    "status": "PAUSED",
+    "performance": "3%",
+    "since": "15h:12m:15s",
+    "partsProduced": 1250
+  }
+]
